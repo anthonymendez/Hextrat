@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
@@ -33,9 +34,9 @@ public class BoardTile : TileBase
         }
     }
 
-    #if UNITY_EDITOR
-        // The following is a helper that adds a menu item to create a Tile
-        [MenuItem("Assets/Create/BoardTile")]
+#if UNITY_EDITOR
+    // The following is a helper that adds a menu item to create a Tile
+    [MenuItem("Assets/Create/BoardTile")]
         public static void CreateRoadTile() {
             string path = EditorUtility.SaveFilePanelInProject("Save Board Tile", "New Board Tile", "Asset", "Save Board Tile", "Assets");
             if (path == "")

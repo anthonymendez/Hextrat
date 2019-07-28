@@ -21,13 +21,21 @@ public class Player : MonoBehaviour
     }
 
     void HandleInput() {
-        if (Input.GetMouseButtonDown(0)) {
+        bool playerTile = Input.GetMouseButtonDown(0);
+        bool enemyTile = Input.GetMouseButtonDown(1);
+
+        if (playerTile || enemyTile) {
             Vector3 clickPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            Vector3Int roundedPos = new Vector3Int((int)(clickPos.x), (int)(clickPos.y), 0);
-            TileBase tile = tilemap.GetTile(roundedPos);
+            Vector3Int roundedPos = tilemap.LocalToCell(clickPos);
+            
+            BoardTile tile = (BoardTile)tilemap.GetTile(roundedPos);
             
             if (tile != null) {
-                Debug.Log("Tile woo!");
+                if (playerTile)
+                    tile.tileType = BoardTile.TileType.Player;
+                else if (enemyTile)
+                    tile.tileType = BoardTile.TileType.Enemy;
+                tilemap.RefreshTile(roundedPos);
             }
         }
     }
