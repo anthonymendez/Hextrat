@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: b00454211996a874d94bf54c85cec82a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4155811534017016936
+    second: troll_regular_bald_0
+  - first:
+      213: -7202580449592697812
+    second: troll_regular_bald_1
+  - first:
+      213: 4108898670936408468
+    second: troll_regular_bald_2
+  - first:
+      213: 3522428459071208580
+    second: troll_regular_bald_3
+  - first:
+      213: 201849133295889624
+    second: troll_regular_bald_4
+  - first:
+      213: -1361388146933508949
+    second: troll_regular_bald_5
+  - first:
+      213: 1805495238611377868
+    second: troll_regular_bald_6
+  - first:
+      213: 6470829314434587151
+    second: troll_regular_bald_7
+  - first:
+      213: -7511570090121893560
+    second: troll_regular_bald_8
+  - first:
+      213: 3861412387742738796
+    second: troll_regular_bald_9
+  - first:
+      213: 4694519084748984733
+    second: troll_regular_bald_10
+  - first:
+      213: 4301828688494252642
+    second: troll_regular_bald_11
+  - first:
+      213: -6775663232108005134
+    second: troll_regular_bald_12
+  - first:
+      213: -2423019739411147138
+    second: troll_regular_bald_13
+  - first:
+      213: 4108956909502671123
+    second: troll_regular_bald_14
+  - first:
+      213: 180368237311373120
+    second: troll_regular_bald_15
+  - first:
+      213: 1873188343560034862
+    second: troll_regular_bald_16
+  - first:
+      213: -3226476581212637600
+    second: troll_regular_bald_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: troll_regular_bald_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da5e7ca0ccdd8f4192896e1415ed6e7
+      internalID: -4155811534017016936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 22
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b675eb9d57ed36418007aa67c78f204
+      internalID: -7202580449592697812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 22
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c21c30f83a0d342a3a1c424057f99f
+      internalID: 4108898670936408468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 12
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62134e8bab0c3c94cb9a33f34e6543f2
+      internalID: 3522428459071208580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 21
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4031a18c1f077854f8c499f2b8d2ee53
+      internalID: 201849133295889624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 21
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77a610a57571c47a4d61306485a1f8
+      internalID: -1361388146933508949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 21
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab741fa5649c94886759b2fc9ec927
+      internalID: 1805495238611377868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 21
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd6a3300a7bdc41901952496ba2ace
+      internalID: 6470829314434587151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 21
+        width: 13
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6057cb1fbcb384aaee32fcecd9ac31
+      internalID: -7511570090121893560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 13
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7896a6e1b5644ca43b2270d64ab3f299
+      internalID: 3861412387742738796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 13
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6ad56cbe443cc4fb94f52a4f868448
+      internalID: 4694519084748984733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 13
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d42143abf4b5428e5965eb2e507c1
+      internalID: 4301828688494252642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19807cf52fd0df548b2f949a241c0aac
+      internalID: -6775663232108005134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 13
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36bb2cb0354ab47a31eff96e2f2dba
+      internalID: -2423019739411147138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 13
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab482520b2afe40b55ac40f99d30e1
+      internalID: 4108956909502671123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 13
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05bbfcd9e221fa45bdaf9864348185f
+      internalID: 180368237311373120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 13
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d492358d644d7d4dbf0e9eeccd54e98
+      internalID: 1873188343560034862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_regular_bald_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 15
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92912ef718894c46bd3078d00871060
+      internalID: -3226476581212637600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2513864214b4aea4089113f0782d00a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
