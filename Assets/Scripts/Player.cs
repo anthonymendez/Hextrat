@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -26,7 +27,7 @@ public class Player : MonoBehaviour
             TileBase tile = tilemap.GetTile(roundedPos);
             
             if (tile != null) {
-
+                Debug.Log("Tile woo!");
             }
         }
     }
